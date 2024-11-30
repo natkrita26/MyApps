@@ -1,0 +1,14 @@
+{
+  "name": "myapps",
+  "version": "1.0.0",
+  "description": "A simple webapp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "natkrita26",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.171.0"
+  }
+}
